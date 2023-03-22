@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guipiccini
-- 👀 I’m interested in - C#, crypto, JAVA, PHP
+- 👀 I’m interested in - C#, solidity, JavaScript, PHP
 - 🌱 I’m currently learning - Node.js
 - 💞️ I’m looking to collaborate on - education
 - 📫 How to reach me - telegram (@guipiccini)
